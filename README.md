@@ -1,11 +1,11 @@
 # ¡Hola! Soy N3mphis 🐍
 > Desarrollador apasionado por las buenas prácticas y la eficiencia en código Java
 
-## Sobre Mí
+## Sobre Mí 🙋‍♂️
 > Actualmente estoy aprendiendo sobre el framework Spring Boot, testing y bases de datos relacionales (PostgreSQL y MySQL)
 > Busco proyectos open source tanto para contribuir como para aprender
 
-## Tecnologías
+## Tecnologías 🖥️
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
